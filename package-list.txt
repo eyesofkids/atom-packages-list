@@ -1,6 +1,5 @@
 aligner@0.22.1
 aligner-javascript@1.0.0
-atom-autocomplete-php@0.18.9
 atom-beautify@0.29.11
 atom-shortcuts@0.0.2
 atom-ternjs@0.15.0
