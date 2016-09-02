@@ -34,6 +34,5 @@ project-manager@2.9.7
 react-es6-snippets@0.3.0
 react-snippets@0.4.2
 sort-lines@0.14.0
-sync-settings@0.7.2
 tab-control@0.6.9
 todo-show@1.7.0
