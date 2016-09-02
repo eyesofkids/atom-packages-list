@@ -2,7 +2,7 @@ aligner@0.22.1
 aligner-javascript@1.0.0
 atom-beautify@0.29.11
 atom-shortcuts@0.0.2
-atom-ternjs@0.15.0
+atom-ternjs@0.14.2
 autoclose-html@0.23.0
 autocomplete-emojis@2.5.0
 autocomplete-paths@1.0.2
