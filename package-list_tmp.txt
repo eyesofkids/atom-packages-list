@@ -1,2 +1,0 @@
-cht-menu@0.1.24
-language-ini@1.16.0
