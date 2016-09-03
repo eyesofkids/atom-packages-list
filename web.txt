@@ -6,8 +6,8 @@ autoclose-html@0.23.0
 autocomplete-emojis@2.5.0
 autocomplete-paths@1.0.2
 autoprefixer@3.2.1
-color-picker@2.2.2
 cht-menu@0.1.24
+color-picker@2.2.2
 docblockr@0.8.5
 double-tag@0.4.0
 emmet@2.4.3
@@ -29,5 +29,4 @@ pigments@0.34.0
 pretty-json@1.6.0
 project-manager@2.9.7
 sort-lines@0.14.0
-tab-control@0.6.9
 todo-show@1.7.0

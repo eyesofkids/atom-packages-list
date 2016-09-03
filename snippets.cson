@@ -1,0 +1,79 @@
+
+'.source.js.jsx':
+  'hoc':
+    'prefix': '_hoc'
+    'body': """
+      const hoc = Component => class _hoc extends React.Component {
+          render() {
+            return <Component { ...this.props } {...this.state} />
+          }
+      }
+    """
+
+  'ReactDOM.render':
+    'prefix': '_rdom'
+    'body': 'ReactDOM.render( $1 , document.getElementById(${2:\'root\'}))'
+
+  'React ES6 Component':
+    'prefix': '_rc'
+    'body': """
+      import React from 'react'
+
+      export default class ${1:MyComponent} extends React.Component {
+        constructor(props) {
+          super(props)
+
+          this.state={value: ''}
+        }
+
+        render() {
+          return (${2:<div>MyComponent</div>})
+        }
+      }
+
+      ${1:MyComponent}.propTypes = {
+      }
+    """
+
+  'React createClass':
+    'prefix': '_rcc'
+    'body': """
+      import React from 'react';
+
+      var ${1:MyComponent} = React.createClass({
+        getInitialState: function(){
+        },
+
+        getDefaultProps: function(){
+        },
+
+        render: function() {
+          return (${2:<div>MyComponent</div>})
+        }
+      })
+
+      export default ${1:MyComponent}
+    """
+
+  'React ES6 Functional Component':
+    'prefix': '_rfc'
+    'body': """
+      import React from 'react'
+
+      const ${1:MyComponent} = (props) => (
+          ${2:<div>MyComponent</div>}
+      )
+
+      ${1:MyComponent}.propTypes = {
+      }
+
+      export default ${1:MyComponent}
+    """
+
+  'import from':
+    'prefix': '_im'
+    'body': 'import $1 from \'$2\''
+
+  'export default':
+    'prefix': '_ed'
+    'body': 'export default $1'

@@ -1,8 +1,13 @@
-# Atom packages list file for bulk installed extensions
+Atom Editor packages list file for bulk installed extensions quickly.
 
-- Testing in Mac OS X,  Windows 10 x86(VM)
+Testing
 
-## HTML/CSS/JS(general)
+- Mac OS X ✅
+- Win10 x86(VM)
+- Win7
+- Ubuntu 16 desktop
+
+## HTML/CSS/JS/Git (general)
 
 - web.txt
 
