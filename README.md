@@ -29,7 +29,7 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt
 
 - php.txt
 
-### excluded/others extensions but suggestion
+### excluded extensions but useful
 
 - [sync-settings](https://atom.io/packages/sync-settings): use it when you have github account and gist
 - [atom-live-server](https://atom.io/packages/atom-live-server)
