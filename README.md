@@ -9,9 +9,9 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt
 ## Test:
 
 - Mac OS X ✅
-- Win10
+- Win10 ✅
 - Win7
-- Ubuntu 14.04 desktop
+- Ubuntu 14.04 desktop ✅
 
 ### HTML/CSS/JS/Git (general)
 
