@@ -23,7 +23,7 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt
 
 ### Markdown
 
-- markdown.txt
+- md.txt
 
 ### PHP Development
 
