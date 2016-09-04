@@ -1,33 +1,38 @@
 Atom Editor packages list file for bulk installed extensions quickly.
 
-Testing
+## How to use:
+
+> apm install --packages-file package-list-file.txt
+
+## Test:
 
 - Mac OS X ✅
-- Win10 x86(VM)
+- Win10
 - Win7
-- Ubuntu 16 desktop
+- Ubuntu 14.04 desktop
 
-## HTML/CSS/JS/Git (general)
+### HTML/CSS/JS/Git (general)
 
 - web.txt
 
-## React
+### React
 
 - react.txt
 
-## Markdown
+### Markdown
 
 - markdown.txt
 
-## PHP Development
+### PHP Development
 
 - php.txt
 
-## excluded/others extensions
+### excluded/others extensions but suggestion
 
 - [sync-settings](https://atom.io/packages/sync-settings): use it when you have github account and gist
-- [terminal-plus](https://atom.io/packages/terminal-plus): installed fail in win10
-- [nuclide](https://atom.io/packages/nuclide): for React Native, include many extensions.
+- [atom-live-server](https://atom.io/packages/atom-live-server)
+- [atom-html-preview](https://atom.io/packages/atom-html-preview)
+- [nuclide](https://atom.io/packages/nuclide): for React Native, included many extensions.
 
 ## Note
 
