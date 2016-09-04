@@ -10,7 +10,7 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt
 
 - Mac OS X ✅
 - Win10 ✅
-- Win7
+- Win7 ✅
 - Ubuntu 14.04 desktop ✅
 
 ### HTML/CSS/JS/Git (general)
@@ -29,7 +29,7 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt
 
 - php.txt
 
-### excluded extensions but useful
+### excluded some useful extensions
 
 - [sync-settings](https://atom.io/packages/sync-settings): use it when you have github account and gist
 - [atom-live-server](https://atom.io/packages/atom-live-server)
