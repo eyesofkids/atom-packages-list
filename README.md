@@ -27,6 +27,8 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt
 
 ### PHP Development
 
+!! You need to install php in the computer first.
+
 - php.txt
 
 ### excluded some useful extensions
