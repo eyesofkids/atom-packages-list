@@ -2,6 +2,8 @@ Atom Editor packages list file for bulk installed extensions quickly.
 
 ## How to use:
 
+Use command line. Change the `package-list-file.txt` to web.txt/react.txt/md.txt/php.txt below.
+
 > apm install --packages-file package-list-file.txt
 
 ## Test:
