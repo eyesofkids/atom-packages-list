@@ -1,7 +1,6 @@
-aligner-php@1.0.0
-atom-autocomplete-php@0.18.9
-hyperclick-php@0.2.1
-language-ini@1.16.0
-linter-php@1.2.0
-php-class-tree@1.0.0
-php-debug@0.2.3
+aligner-php
+atom-autocomplete-php
+hyperclick-php
+language-ini
+linter-php
+php-debug

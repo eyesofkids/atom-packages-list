@@ -1,4 +1,8 @@
-markdown-scroll-sync@2.1.2
-markdown-themeable-pdf@1.2.0
-markdown-writer@2.5.1
-pdf-view@0.50.0
+language-markdown
+linter-markdown
+markdown-preview-plus
+markdown-scroll-sync
+markdown-themeable-pdf
+markdown-writer
+pdf-view
+wordcount

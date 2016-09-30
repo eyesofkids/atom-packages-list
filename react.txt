@@ -1,2 +1,2 @@
-language-babel@2.36.2
-react-es6-snippets@0.3.0
+language-babel
+react-es6-snippets
