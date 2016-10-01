@@ -1,8 +1,10 @@
 Atom Editor packages list files for batch(bulk) installed packages easily.
 
+[Chinese Readme 中文解說](README_zh.md)
+
 ## How to use:
 
-Use command line. Change the `package-list-file.txt` to web.txt/react.txt/rn.txt/sass.txt/md.txt/php.txt below.
+Use command line `apm` tool. Change the `package-list-file.txt` to general.txt/react.txt/rn.txt/sass.txt/md.txt/php.txt below.
 
 > apm install --packages-file package-list-file.txt
 
@@ -43,14 +45,10 @@ Use command line. Change the `package-list-file.txt` to web.txt/react.txt/rn.txt
 
 - cht.txt
 
-### excluded some useful extensions
-
-- [sync-settings](https://atom.io/packages/sync-settings): for backup settings. You need a github account.
-
-
 ## Note
 
 - atom-ternjs: if it isn't worked, downgrade to 0.14.2 version.
+- [sync-settings](https://atom.io/packages/sync-settings): for backup settings. You need a github account
 - [nuclide](https://atom.io/packages/nuclide): contains many extensions. (!!NOTE: some features are NOT supported Windows)
 
 ## Changlog
