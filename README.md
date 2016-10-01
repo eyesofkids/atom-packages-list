@@ -47,6 +47,8 @@ Use command line `apm` tool. Change the `package-list-file.txt` to general.txt/r
 
 ## Note
 
+Your computer need over 400MB space and it cost you 15~30 mins to install all packages above.
+
 - atom-ternjs: if it isn't worked, downgrade to 0.14.2 version.
 - [sync-settings](https://atom.io/packages/sync-settings): for backup settings. You need a github account
 - [nuclide](https://atom.io/packages/nuclide): contains many extensions. (!!NOTE: some features are NOT supported Windows)

@@ -45,6 +45,8 @@ Atom Editor簡單的批次/大量安裝套件的檔案列表。
 
 ## 注意事項
 
+你的電腦需要超過400MB的空間，而且這會花你15~30分來安裝上面所有的套件。
+
 - atom-ternjs: 如果這沒辦法正常使用，請降級到0.14.2版本。
 - [sync-settings](https://atom.io/packages/sync-settings): 備份設定使用的，你需要先申請github帳號。
 - [nuclide](https://atom.io/packages/nuclide): 包含許多套件。 (!!注意: 有些功能不支援Windows)
