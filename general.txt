@@ -29,4 +29,5 @@ platformio-ide-terminal
 pretty-json
 project-manager
 sort-lines
+sync-settings
 todo-show

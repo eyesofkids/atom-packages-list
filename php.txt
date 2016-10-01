@@ -1,6 +1,5 @@
 aligner-php
 atom-autocomplete-php
 hyperclick-php
-language-ini
 linter-php
 php-debug
